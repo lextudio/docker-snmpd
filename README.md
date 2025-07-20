@@ -12,4 +12,4 @@ docker run -p 161:161/udp ghcr.io/lextudio/docker-snmpd:main
 
 ## Bug Reports
 
-Issues about this image should be reported to support@lextudio.com.
+Issues about this image should be reported to [LeXtudio Inc.](support@lextudio.com).
